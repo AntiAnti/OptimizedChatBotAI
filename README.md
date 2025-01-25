@@ -8,6 +8,8 @@ The project doesn't work as is. It requires a few plugins:
 - Eleven Voice (buy on [Fab](https://www.fab.com/listings/ecd17f81-8a90-4f69-bf3a-9b7cbd5a564c))
 - Ynnk Facial Animation (free, download [here](https://vrmocapstudio.com/plugins.html))
 
+For Eleven Labs, paste your API key to Edit --> Project Settings --> Eleven Voice --> API Key.
+
 To optimize latency, LLM should work in streaming mode, i. e. it returns generated text in chunks. For example:
 - How
 - How old
